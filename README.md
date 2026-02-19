@@ -1,4 +1,4 @@
-# 🚀 MLOps Production Pipeline
+# 🚀 MLOps 
 > **End-to-End Machine Learning Engineering: From Ingestion to Cloud Deployment.**
 
 ![Deadline](https://img.shields.io/badge/Deadline-March%2015-red?style=for-the-badge)
