@@ -1,0 +1,8 @@
+2026-02-20 01:16:02,170 | INFO | Loading model from fraud_model_v2.pkl...
+2026-02-20 01:16:02,170 | ERROR | Model file not found at fraud_model_v2.pkl
+2026-02-20 01:16:02,170 | CRITICAL | Failed to load model: Model file not found at fraud_model_v2.pkl
+2026-02-20 01:18:22,844 | INFO | GET /docs | Status: 200 | Time: 0.85ms
+2026-02-20 01:18:24,771 | INFO | GET /openapi.json | Status: 200 | Time: 23.82ms
+2026-02-20 01:19:07,196 | INFO | Loading model from fraud_model_v2.pkl...
+2026-02-20 01:19:07,197 | ERROR | Model file not found at fraud_model_v2.pkl
+2026-02-20 01:19:07,197 | CRITICAL | Failed to load model: Model file not found at fraud_model_v2.pkl
