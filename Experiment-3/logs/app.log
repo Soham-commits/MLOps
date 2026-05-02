@@ -9,3 +9,17 @@
 2026-02-20 01:20:52,960 | INFO | Loading model from fraud_model_v2.pkl...
 2026-02-20 01:20:52,960 | ERROR | Model file not found at fraud_model_v2.pkl
 2026-02-20 01:20:52,960 | CRITICAL | Failed to load model: Model file not found at fraud_model_v2.pkl
+2026-02-23 15:46:16,899 | INFO | Loading model from fraud_model_v2.pkl...
+2026-02-23 15:46:18,020 | INFO | Fraud model loaded successfully
+2026-02-23 15:46:18,020 | INFO | API server started
+2026-02-23 15:46:22,059 | INFO | GET / | Status: 200 | Time: 0.75ms
+2026-02-23 15:46:23,792 | INFO | GET /favicon.ico | Status: 404 | Time: 0.80ms
+2026-02-23 15:46:30,446 | INFO | GET / | Status: 200 | Time: 2.53ms
+2026-02-23 15:46:31,024 | INFO | GET /docs | Status: 200 | Time: 0.46ms
+2026-02-23 15:46:31,554 | INFO | GET /openapi.json | Status: 200 | Time: 35.63ms
+2026-02-23 15:46:39,192 | INFO | Received prediction request | Amount: 0.0 | Time: 0.0
+2026-02-23 15:46:39,302 | INFO | Prediction: 0 | Fraud Probability: 0.0%
+2026-02-23 15:46:39,303 | INFO | POST /predict | Status: 200 | Time: 115.26ms
+2026-02-23 16:04:36,419 | INFO | Received prediction request | Amount: 0.0 | Time: 0.0
+2026-02-23 16:04:36,548 | INFO | Prediction: 0 | Fraud Probability: 0.0%
+2026-02-23 16:04:36,549 | INFO | POST /predict | Status: 200 | Time: 137.73ms
